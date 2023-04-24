@@ -1,0 +1,73 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.mek{
+	width: 100%;
+	/*border: 1px solid;*/
+}
+.mek img {
+	width: 100%;
+}
+/*/////////2/////////*/
+.erku{
+	width: 100%;
+	/*border: 1px solid;*/
+}
+.erku img {
+	width: 100%;
+	/*border: 1px solid;*/
+}
+/*///////3/////*/
+.ereq{
+	width: 100%;
+}
+.ereq img{
+	width: 100%;
+
+}
+.chors{
+	width: 100%;
+}
+.chors img{
+	width: 100%;
+}
+.hing{
+	width: 100%;
+}
+.hing img{
+	width: 100%;
+}
+.vec{
+	width: 100%;
+}
+.vec img{
+	width: 100%;
+}
+/*//////qartez1///*/
+.qartez1{
+	width: 100%;
+	height: 600px;
+	border: 1px solid;
+}
+/*///////*/
+.yot{
+	width: 100%;
+}
+.yot img{
+	width: 100%;
+}
+/*//////qartez2///*/
+.qartez2{
+	width: 100%;
+	height: 600px;
+	border: 1px solid;
+}
+/*//////*/
+.ut{
+	width: 100%;
+}
+.ut img{
+	width: 100%;
+}
